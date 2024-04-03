@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    ÷# defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -167,6 +167,72 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Graduate Student Ambassador"
+        company: "USC Viterbi School of Engineering"
+        companyUrl: "https://viterbischool.usc.edu"
+        date: "Mar 2024 - present"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "Through personalized interactions and informative sessions, I assist prospective and admitted students in navigating graduate school, providing guidance on program requirements, scholarships, resources available to support their academic journey and more."
+      - job: "Intern"
+        company: "Thumbo"
+        companyUrl: "https://thumbo.app"
+        date: "May 2023 - July 2023"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "- Spearheaded the development of a responsive website for an early-stage startup, optimizing user experience and increasing online visibility\n
+          - Collaborated closely with the startup's founders to understand their goals and objectives, ensuring that the website and branding aligned with their business strategy\n
+          - Translated the startup's vision into a captivating logo and comprehensive set of branding elements, establishing a strong and memorable brand identity"
+      - job: "Web Production Team Member"
+        company: "USC Annenberg Media"
+        companyUrl: "https://www.uscannenbergmedia.com"
+        date: "Jan 2023 - Apr 2023"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "- Collaborated effectively with desks within Annenberg Media to strategize and execute the redesign of multiple web pages, fostering improved user engagement and navigation\n
+- Contributed in enhancing the UI of web pages by enforcing user-centered approaches"
+
+      - job: "Business Development Intern"
+        company: "Blitzllama (YC W22)"
+        companyUrl: "https://www.blitzllama.com"
+        date: "Aug 2022 - Nov 2022"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "- Initiated proactive outreach campaigns, utilizing social media platforms, resulting in a consistent stream of new client inquiries\n
+- Maintained a comprehensive database of leads and prospects using CRM software, ensuring accurate tracking of interactions and conversion rates\n
+- Conducted regular follow-ups with leads, nurturing relationships and addressing client inquiries"
+
+      - job: "Content Specialist Intern"
+        company: "Lighthouse - Storytelling For Change"
+        companyUrl: "https://lighthousestories.org"
+        date: "Aug 2021 - Nov 2021"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "- Developed the frontend of the organization's website, applying modern design principles to create an engaging interface\n
+- Contributed to the organization's brand voice and messaging through copywriting and content creation, producing compelling articles, blog posts, and multimedia content to engage the target audience\n
+- Presented website design concepts and content plans directly to the co-founders' office"
+
+      - job: "Project Intern"
+        company: "Dassault Systèmes"
+        companyUrl: "https://www.3ds.com"
+        date: "Jun 2020 - Oct 2020"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "- Created interactive virtual labs focusing on digital electronics experiments, leveraging the 3DEXPERIENCE platform to provide an immersive and hands-on learning experience\n
+- Utilized CATIA and Dymola Software, along with the Modelica modeling language, to simulate and assess a diverse range of electronic circuits and networks, enhancing understanding of theoretical concepts"
+
       # - job: "Senior Software Developer"
       #   company: "Facebook"
       #   companyUrl: "https://example.com"
@@ -236,7 +302,7 @@ params:
       - title: "Master of Science in Computer Science"
         school:
           name: "University of Southern California, Los Angeles, CA"
-          url: "https://example.org"
+          url: "https://www.cs.usc.edu"
         date: "2023 - 2024"
         GPA: "3.8 out of 4"
         content: |-
@@ -245,11 +311,11 @@ params:
       - title: "Bachelor of Engineering in Electrical and Electronics Engineering"
         school:
           name: "BMS College of Engineering, Bengaluru, India"
-          url: "https://example.org"
-        date: "2009 - 2013"
+          url: "https://bmsce.ac.in"
+        date: "2018 - 2022"
         GPA: "9.57 out of 10"
         content: |-
-          I Publiced one paper
+          I Published one paper
 
   # Achievements
   achievements:
