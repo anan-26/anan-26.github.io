@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Ananya."
     subtitle: "I am a graduate student of computer science"
-    content: "Enthusiastically driven by the world of software development and eager to elevate my skills through an immersive internship experience."
+    content: "This is a place where I get to share my interests with you!"
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -134,8 +134,8 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://urls.ananya.app/resume"
-      download: true
+      url: "https://urls.ananya.app/contact"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
