@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://urls.ananya.app/contact"
+      url: "https://urls.ananya.app/#contact"
       download: false
       newPage: false
     socialLinks:
