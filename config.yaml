@@ -1,4 +1,4 @@
-baseURL: "https://ananya.app"
+baseURL: "https://whatshername.blog"
 languageCode: "en-us"
 title: "Ananya Chakravarthi"
 theme: hugo-profile
@@ -131,12 +131,12 @@ params:
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    #button:
-    #  enable: true
-    #  name: "Resume"
-    #  url: "https://urls.ananya.app/#contact"
-    #  download: false
-    #  newPage: false
+    button:
+      enable: true
+      name: "Resume"
+      url: "https://urls.whatshername.blog/#contact"
+      download: false
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
